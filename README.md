@@ -1,2 +1,1 @@
-# telegram_bot
-Telegram bot
+# Telegram bot written on python
